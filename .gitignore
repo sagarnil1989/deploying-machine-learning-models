@@ -106,6 +106,7 @@ venv.bak/
 # pycharm
 .idea/
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # datafiles
 train.csv
@@ -128,5 +129,7 @@ packages/neural_network_model/neural_network_model/datasets/training_data_refere
 
 kaggle.json
 packages/ml_api/uploads/*
+=======
+>>>>>>> parent of 8d79cf4... Section 6.2 - Initial setup
 =======
 >>>>>>> parent of 8d79cf4... Section 6.2 - Initial setup
